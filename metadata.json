@@ -1,0 +1,5 @@
+{
+  "name": "Web Topic Summarizer",
+  "description": "An application that takes a user-provided topic, searches the web for relevant articles, and generates a comprehensive summary with references using the Gemini API.",
+  "requestFramePermissions": []
+}
